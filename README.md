@@ -2,7 +2,9 @@
 DevOps Automation Scripts
 
 PowerShell:
-* Backup automation
-* Environment setup
+  * Backup automation
+  * Environment setup
+  * Deployment scripts
+
 Bash:
-* Deployment scripts
+  * SSL configuration script
